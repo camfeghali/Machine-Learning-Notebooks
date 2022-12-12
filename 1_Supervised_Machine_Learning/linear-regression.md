@@ -3,9 +3,9 @@
 Model
 $$f_{w,b}(x^{(i)}) = wx^{(i)} + b \tag{1}$$
 
--   $i$: The $i_{th}$ training example
--   $w$: Model parameter
--   $b$: Model parameter
+- $i$: The $i_{th}$ training example
+- $w$: Model parameter
+- $b$: Model parameter
 
 # Cost Function
 
@@ -27,8 +27,8 @@ $$
 \end{align*}
 $$
 
--   $\frac{\partial J(w,b)}{\partial w}$: The gradient
--   $a$: The learning rate
+- $\frac{\partial J(w,b)}{\partial w}$: The gradient
+- $a$: The learning rate
 
 The gradient is defined as the cost given values for the parameters $w$ and $b$.
 
@@ -39,7 +39,4 @@ $$
 \end{align}
 $$
 
-```mermaid
-graph TD
-  FirstStep-->...
-```
+# Multiple Variable Linear Regression
