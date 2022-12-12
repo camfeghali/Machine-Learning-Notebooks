@@ -108,3 +108,9 @@ To pick a learning rate, start 0.001 and increase by multiplying by 3 for a hand
 Feature engineering is the process of creating new features from your existing features. One good example is having the frontage and the depth of a lot size in a house dataset. One feature that could be engineered is the total plot area which is the $area = frontage \times depth$. That feature could be used in training your model and could be more useful for making predictions.
 
 # Polynomial Regression
+
+Write a bit about polynomial regression
+
+# Linear regression development steps
+
+Add mermaid diagram here
